@@ -1,0 +1,1125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\boss\\enemybossatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\boss\\enemybossatack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\boss\\enemybossai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\boss\\enemybossai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\boss\\enemybosskinsetu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\boss\\enemybosskinsetu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\boss\\charaattackboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\boss\\charaattackboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemystate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemystate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemykinsetu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemykinsetu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemygaugemuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemygaugemuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\item\\itemkanri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\itemkanri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\playerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\playerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\missingdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\missingdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\escwindowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\escwindowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\closewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\closewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\windowchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\windowchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\updatebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\updatebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(not cursor).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(not cursor).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(meimetu).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(meimetu).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(basic).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\uibuttonselector(basic).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\statuswindowselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\statuswindowselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\lvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\lvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\uiscript\\shopwindowselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\shopwindowselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\item\\useitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\useitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\item\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\slotbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\datascript\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\datascript\\lvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\lvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\systemscript\\datascript\\charastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\charastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\shopsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\shopsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\shopitemexplanation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\shopitemexplanation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\shopbutton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\shopbutton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\shopbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\shopbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\sellbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\sellbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\itemsellexplanation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\itemsellexplanation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\itemsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\itemsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\shopscript\\itembuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\shopscript\\itembuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\scenescript\\titlebuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\titlebuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\scenescript\\temporaryscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\temporaryscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\scenescript\\temporarybuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\temporarybuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\scenescript\\scenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\scenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\scenescript\\buttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\buttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\titleplayermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\titleplayermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\sowrdeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\sowrdeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\playerscript\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\playerscript\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\objectscript\\scenepointerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\objectscript\\scenepointerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\objectscript\\nextscenecolliderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\objectscript\\nextscenecolliderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\interface\\ienemyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\interface\\ienemyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\interface\\icharaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\interface\\icharaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\equipmentscript\\equipmentback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\equipmentscript\\equipmentback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\equipmentscript\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\equipmentscript\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\enemykoudou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\enemykoudou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\mob\\charaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\mob\\charaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\enemyscript\\boss\\enemydamageboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\enemyscript\\boss\\enemydamageboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\camerascript\\focusonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\focusonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\diarylifeonline\\diarylifeonlline\\assets\\mainassets\\script\\camerascript\\cameramuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA921A-FC69-FF40-0BC3-E84FCC1563FF}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\cameramuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemykinsetu.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemykinsetu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemykinsetu.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemykinsetu.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemykinsetu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:56.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemystate1.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemystate1.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemystate1.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemystate1.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\Enemystate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBosskinsetu.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBosskinsetu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBosskinsetu.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBosskinsetu.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBosskinsetu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyBossAtack.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAtack.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAtack.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAtack.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAtack.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharaAttackBoss.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\CharaAttackBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\CharaAttackBoss.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\CharaAttackBoss.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\CharaAttackBoss.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:28:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyBossAI.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAI.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAI.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyBossAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:59:24.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyGaugemuki.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyGaugemuki.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyGaugemuki.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyGaugemuki.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyGaugemuki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyDamage.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemData.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemData.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:31.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemKanri.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:53:00.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerDamage.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerDamage.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerDamage.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:37.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerAttack.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MissingDelete.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\MissingDelete.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\MissingDelete.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\MissingDelete.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\MissingDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:55.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ESCWindowPanel.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\ESCWindowPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\ESCWindowPanel.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\ESCWindowPanel.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\ESCWindowPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CloseWindow.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\CloseWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\CloseWindow.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\CloseWindow.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\CloseWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WindowChange.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\WindowChange.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\WindowChange.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\WindowChange.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\WindowChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateButton.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UpdateButton.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UpdateButton.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UpdateButton.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UpdateButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:50.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIButtonSelector(meimetu).cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(meimetu).cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(meimetu).cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(meimetu).cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(meimetu).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIButtonSelector(not cursor).cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(not cursor).cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(not cursor).cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(not cursor).cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(not cursor).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:47.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UIButtonSelector(basic).cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(basic).cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(basic).cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(basic).cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\UIButtonSelector(basic).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TitleUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\TitleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\TitleUI.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\TitleUI.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\TitleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusWindowSelector.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindowSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindowSelector.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindowSelector.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindowSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatusWindow.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LvUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:38.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShopWindowSelector.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\ShopWindowSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\ShopWindowSelector.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\ShopWindowSelector.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\ShopWindowSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SlotButton.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\SlotButton.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\SlotButton.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\SlotButton.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\SlotButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:31.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Lvdata.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CharaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:29.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShopWindow.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ShopWindow.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopWindow.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ShopWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShopSetting.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ShopSetting.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopSetting.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ShopSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:26.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShopItemExplanation.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopItemExplanation.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ShopItemExplanation.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopItemExplanation.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ShopItemExplanation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShopButton2.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopButton2.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ShopButton2.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopButton2.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ShopButton2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShopButton.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopButton.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ShopButton.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ShopButton.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ShopButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:22.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SellButton.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\SellButton.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\SellButton.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\SellButton.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\SellButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ItemSellExplanation.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemSellExplanation.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ItemSellExplanation.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemSellExplanation.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ItemSellExplanation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TitleButtonScene.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TitleButtonScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\TitleButtonScene.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TitleButtonScene.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\TitleButtonScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TemporarySceneScript.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TemporarySceneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\TemporarySceneScript.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TemporarySceneScript.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\TemporarySceneScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TemporaryButtonScene.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:14.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SceneScript.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\SceneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\SceneScript.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\SceneScript.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\SceneScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:56:13.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EnemyKoudou.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyKoudou.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyKoudou.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyKoudou.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\EnemyKoudou.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CharaAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\CharaAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\CharaAttack.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\mob\\CharaAttack.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\mob\\CharaAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:55:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UseItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\UseItem.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\UseItem.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\UseItem.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\UseItem.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwGoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:10:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FocusOnEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAcwH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:13:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CinemachineDollyInputProvider.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:13:03.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CameraMuki.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:13:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICharaAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\ICharaAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\Interface\\ICharaAttack.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\ICharaAttack.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\Interface\\ICharaAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\Interface\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\Interface\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IEnemyAction.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\IEnemyAction.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\Interface\\IEnemyAction.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\Interface\\IEnemyAction.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\Interface\\IEnemyAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ScenePointerScript.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ObjectScript\\ScenePointerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ObjectScript\\ScenePointerScript.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ObjectScript\\ScenePointerScript.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ObjectScript\\ScenePointerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:53:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NextSceneColliderScript.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ObjectScript\\NextSceneColliderScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ObjectScript\\NextSceneColliderScript.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ObjectScript\\NextSceneColliderScript.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ObjectScript\\NextSceneColliderScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:53:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SowrdEffect.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\SowrdEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\SowrdEffect.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\SowrdEffect.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\SowrdEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TitlePlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\TitlePlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\TitlePlayerMove.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\TitlePlayerMove.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\TitlePlayerMove.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PlayerWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerWeapon.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerWeapon.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerMove.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\PlayerScript\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\PlayerScript\\PlayerAnimation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:48:09.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ItemSell.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemSell.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ItemSell.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemSell.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ItemSell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:39:49.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemBuy.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemBuy.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\ShopScript\\ItemBuy.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\ShopScript\\ItemBuy.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\ShopScript\\ItemBuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:39:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ButtonScene.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\ButtonScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\ButtonScene.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\SceneScript\\ButtonScene.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\ButtonScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:39:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EquipmentBack.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EquipmentScript\\EquipmentBack.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EquipmentScript\\EquipmentBack.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EquipmentScript\\EquipmentBack.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EquipmentScript\\EquipmentBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:33:40.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EquipmentScript\\Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EquipmentScript\\Equipment.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EquipmentScript\\Equipment.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EquipmentScript\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:33:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EnemyDamageBoss.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyDamageBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyDamageBoss.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\DiaryLifeOnline\\DiaryLifeOnlline\\Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyDamageBoss.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\EnemyScript\\Boss\\EnemyDamageBoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:33:17.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

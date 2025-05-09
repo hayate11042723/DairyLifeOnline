@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CinemachineDollyInputProvider.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:00:08.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -58,7 +58,7 @@ public class CinemachineDollyInputProvider : MonoBehaviour
             // Z 軸の入力アクションにリスナーを登録。
             _cinemachineInputProvider.ZAxis.action.performed += context =>
             {
-                // 現在のカメラ距離を計算し、設定された範囲内にクランプ。
+                // 現在のカメラ距離を計算し、設定された範囲内に固定。
                 float distance = Mathf.Clamp(
                     cinemachineFramingTransposer.m_CameraDistance + context.ReadValue<float>() * _sensitivity,
                     _minDistance,

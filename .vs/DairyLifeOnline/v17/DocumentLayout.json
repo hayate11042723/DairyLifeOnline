@@ -3,19 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\uiscript\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\datascript\\charastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\charastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\scenescript\\temporarybuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\scenescript\\temporarybuttonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\uiscript\\lvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\uiscript\\lvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\datascript\\lvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\lvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\datascript\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\datascript\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\camerascript\\focusonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\systemscript\\item\\itemkanri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\systemscript\\item\\itemkanri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\assets\\mainassets\\script\\camerascript\\focusonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\focusonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\camerascript\\cameramuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\assets\\mainassets\\script\\camerascript\\cameramuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\cameramuki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|c:\\users\\\u4E2D\u539F\u98AF\u5E0C\\desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\dairylifeonline\\assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048E6F2D-F36B-EE05-CBA6-D2AFD60C118C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainassets\\script\\camerascript\\cinemachinedollyinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,19 +59,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StatusWindow.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\StatusWindow.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:28:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\CharaStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:27:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemporaryButtonScene.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SceneScript\\TemporaryButtonScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:27:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LvUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\UIScript\\LvUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:26:16.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lvdata.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\Lvdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:25:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\DataScript\\PlayerStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:25:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemKanri.cs",
+              "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemKanri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:58:25.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ItemDataBase.cs",
               "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
               "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
               "ToolTip": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
               "RelativeToolTip": "Assets\\MainAssets\\Script\\SystemScript\\Item\\ItemDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T06:22:04.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CameraMuki.cs",
               "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
               "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
@@ -51,12 +170,11 @@
               "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\CameraMuki.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T04:55:49.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T04:55:49.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "FocusOnEnemy.cs",
               "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
@@ -64,12 +182,11 @@
               "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\FocusOnEnemy.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAkwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T04:55:48.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T04:55:48.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "CinemachineDollyInputProvider.cs",
               "DocumentMoniker": "C:\\Users\\\u4E2D\u539F\u98AF\u5E0C\\Desktop\\\u5C31\u6D3B\u7528\u4F5C\u54C1\\DairyLifeOnline\\Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
               "RelativeDocumentMoniker": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
@@ -77,8 +194,7 @@
               "RelativeToolTip": "Assets\\MainAssets\\Script\\CameraScript\\CinemachineDollyInputProvider.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAywDMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:00:08.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T01:00:08.196Z"
             }
           ]
         }
